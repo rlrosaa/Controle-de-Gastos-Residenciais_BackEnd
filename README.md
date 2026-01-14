@@ -75,8 +75,8 @@ Controle de Gastos Residenciais/
    ```
 
 3. **Executar a aplicação:**
-   ``Base URL: `https://localhost:5001/api` (ou `http://localhost:5000/api`)
-   - Swagger/OpenAPI: `https://localhost:5001/openapi/v1.json
+   ```bash
+   dotnet run
    ```
 
 4. **Acessar a API:**
