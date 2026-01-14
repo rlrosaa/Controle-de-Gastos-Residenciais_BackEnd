@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Controle de Gastos Residenciais/Controle de Gastos Residenciais.csproj" />
+  <Project Path="ControleGastosResiduais.Tests/ControleGastosResiduais.Tests.csproj" />
+</Solution>
