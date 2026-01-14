@@ -69,7 +69,7 @@ Controle de Gastos Residenciais/
    dotnet restore
    ```
 
-2. **Aplicar migrations** (já foi executado, mas se precisar novamente):
+2. **Aplicar migrations**:
    ```bash
    dotnet ef database update
    ```
@@ -80,7 +80,7 @@ Controle de Gastos Residenciais/
    ```
 
 4. **Acessar a API:**
-   - Swagger UI: `https://localhost:5001/openapi/v1.json` (em desenvolvimento)
+   - Swagger UI: `https://localhost:5001/openapi/v1.json`
    - Base URL: `https://localhost:5001/api`
 
 ## 📊 Banco de Dados
