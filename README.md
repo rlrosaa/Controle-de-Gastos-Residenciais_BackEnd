@@ -80,8 +80,8 @@ Controle de Gastos Residenciais/
    ```
 
 4. **Acessar a API:**
-   - Swagger UI: `https://localhost:5001/openapi/v1.json`
-   - Base URL: `https://localhost:5001/api`
+   - Swagger UI: `http://localhost:5000/openapi/v1.json`
+   - Base URL: `http://localhost:5000/api`
 
 ## 📊 Banco de Dados
 
